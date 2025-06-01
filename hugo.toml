@@ -4,4 +4,4 @@ title = 'Resume'
 theme = 'ananke'
 [caches]
   [caches.images]
-    dir = ':cacheDir/images'
+    dir = ':cacheDir/images'    

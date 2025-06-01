@@ -1,0 +1,4 @@
+baseURL = 'https://irving-resume.org/'
+languageCode = 'en-us'
+title = 'Resume'
+theme = 'ananke'

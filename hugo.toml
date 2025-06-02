@@ -1,7 +1,41 @@
-baseURL = 'https://irving-resume.org/'
+baseURL = 'https://irving-peng.github.io/hugo-site/'
 languageCode = 'en-us'
-title = 'Resume'
-theme = 'ananke'
+title = 'Welcome'
+theme = "hello-friend-ng"
+[params]
+  homeSubtitle = "This is my personal website;learn more about me on the About page"
+  homeText = "Hi! I'm Chen Peng. Welcome to my personal site."
+  enableSharingButtons = true
+  enableThemeToggle = true
+  defaultTheme = "dark"  # or "light"
+  description = "A site about me"
+  keywords = ["portfolio", "resume", "blog"]
+  showReadingTime = true
+
+  [[params.social]]
+    name = "email"
+    url = "mailto:irvingcpeng@gmail.com"
+
+  [[params.social]]
+    name = "github"
+    url = "https://github.com/irving-peng"
+
+  [[params.social]]
+    name = "linkedin"
+    url = "https://www.linkedin.com/in/chenpeng01/"
+
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "posts"
+    name = "Posts"
+    url = "/posts/"
+    weight = 2
 [caches]
   [caches.images]
     dir = ':cacheDir/images'    

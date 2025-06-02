@@ -1,18 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Resume</title>
-    <link>https://irving-resume.org/</link>
-    <description>Recent content on Resume</description>
+    <title>Welcome</title>
+    <link>http://localhost:1313/hugo-site/</link>
+    <description>Recent content on Welcome</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 01 Jun 2025 17:58:49 -0500</lastBuildDate>
-    <atom:link href="https://irving-resume.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 02 Jun 2025 14:09:58 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/hugo-site/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My Second Post</title>
+      <link>http://localhost:1313/hugo-site/posts/my-second-post/</link>
+      <pubDate>Mon, 02 Jun 2025 14:09:58 -0500</pubDate>
+      <guid>http://localhost:1313/hugo-site/posts/my-second-post/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/hugo-site/about/</link>
+      <pubDate>Sun, 01 Jun 2025 18:53:15 -0500</pubDate>
+      <guid>http://localhost:1313/hugo-site/about/</guid>
+      <description>&lt;h1 id=&#34;hi-im-chen-peng-&#34;&gt;Hi, I&amp;rsquo;m Chen Peng 👋&lt;/h1&gt;&#xA;&lt;p&gt;Welcome to my personal website!&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;m a Computer Science graduate student at Northwestern University with a passion for full-stack development, machine learning, and creative coding. This site is my space to share thoughts, projects, and anything else I find interesting.&lt;/p&gt;&#xA;&lt;h2 id=&#34;skills&#34;&gt;Skills&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Languages:&lt;/strong&gt; Python, JavaScript, Java, SQL&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Frameworks:&lt;/strong&gt; React, Node.js, Flask, Docker&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Tools:&lt;/strong&gt; Git, VS Code, Firebase, AWS&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;hobbies&#34;&gt;Hobbies&lt;/h2&gt;&#xA;&lt;p&gt;In my free time, I love:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;🕺 Dancing (Jazz, Contemporary, Hip-Hop)&lt;/li&gt;&#xA;&lt;li&gt;📷 Photography&lt;/li&gt;&#xA;&lt;li&gt;✈️ Exploring new cities&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;contact&#34;&gt;Contact&lt;/h2&gt;&#xA;&lt;p&gt;Want to collaborate or just say hi?&lt;br&gt;&#xA;&lt;a href=&#34;mailto:irvingcpeng@gmail.com&#34;&gt;Email me&lt;/a&gt; or &lt;a href=&#34;https://www.linkedin.com/in/chenpeng01/&#34;&gt;connect on LinkedIn&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>My First Post</title>
-      <link>https://irving-resume.org/posts/my-first-post/</link>
+      <link>http://localhost:1313/hugo-site/posts/my-first-post/</link>
       <pubDate>Sun, 01 Jun 2025 17:58:49 -0500</pubDate>
-      <guid>https://irving-resume.org/posts/my-first-post/</guid>
+      <guid>http://localhost:1313/hugo-site/posts/my-first-post/</guid>
       <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text, and this is &lt;em&gt;emphasized&lt;/em&gt; text.&lt;/p&gt;&#xA;&lt;p&gt;Visit the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; website!&lt;/p&gt;</description>
     </item>
   </channel>
